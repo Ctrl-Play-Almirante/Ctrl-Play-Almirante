@@ -32,7 +32,7 @@ Aqui é onde a escola **Ctrl+Play · CNA Almirante Tamandaré** organiza os proj
 Leia as intruções no Portal Astro, na aba: "Tarefa dada pelo professor"
 
 ```bash
-# 1. Faça um fork deste repositório
+# 1. Faça um fork do repositório indicado
 # 2. Crie uma pasta com seu nome e o número da Aula / Desafio
 # 3. Adicione seus arquivos
 # 4. Abra um Pull Request com o título: [NOME] Lição 01
